@@ -1,0 +1,8 @@
+﻿!	=	NOT
+.	=	AND
++	=	OR
+!.	=	NAND
+!+	=	NOR
+^	=	XOR
+!^	=	XNOR
+&	=	Concatenation of Bits
